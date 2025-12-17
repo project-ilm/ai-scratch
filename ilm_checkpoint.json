@@ -1,5 +1,5 @@
 {
-  "stage": "snapshot_pushed_or_attempted",
-  "timestamp": "2025-12-17T04:51:41.595485",
+  "stage": "artifact_aggregation_started",
+  "timestamp": "2025-12-17T05:03:09.307147+00:00",
   "meta": {}
 }
